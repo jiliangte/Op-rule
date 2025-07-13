@@ -24,7 +24,6 @@ IP-CIDR,180.76.76.76/32,no-resolve
 IP-CIDR,114.114.114.114/32,no-resolve
 IP-CIDR,114.114.115.115/32,no-resolve
 
-
 # 360
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360kuai.com
@@ -35,9 +34,17 @@ DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,so.com
 
+# taobao
+DOMAIN-SUFFIX,taaobao.com
 
-# 58
-DOMAIN-SUFFIX,58.com
+# weibo
+DOMAIN-SUFFIX,weibo.com
+
+# huaban
+DOMAIN-SUFFIX,huaban.com
+
+#tianmao
+DOMAIN-SUFFIX,tmall.com
 
 # Alibaba
 DOMAIN-SUFFIX,1688.com
