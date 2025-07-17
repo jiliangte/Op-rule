@@ -321,12 +321,6 @@ DOMAIN-SUFFIX,wechat.com
 DOMAIN-SUFFIX,weixin.com
 DOMAIN-SUFFIX,weiyun.com
 
-# Vip 唯品会
-DOMAIN-SUFFIX,appsimg.com
-DOMAIN-SUFFIX,appvipshop.com
-DOMAIN-SUFFIX,vip.com
-DOMAIN-SUFFIX,vipstatic.com
-
 # Ximalaya 喜马拉雅
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xmcdn.com
@@ -341,7 +335,6 @@ DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,thundercdn.com
 DOMAIN-SUFFIX,xunlei.com
 
-
 # Public Direct CDN 公共直连
 #DOMAIN-SUFFIX,ajax.aspnetcdn.com
 #DOMAIN-SUFFIX,ajax.cloudflare.com
@@ -352,8 +345,6 @@ DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,upaiyun.com
-
-
 
 # AccelerateDirectSites
 DOMAIN-SUFFIX,10010.com
