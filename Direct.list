@@ -26,7 +26,8 @@ IP-CIDR,114.114.115.115/32,no-resolve
 
 #即梦
 DOMAIN-SUFFIX,jianying.com
-# 360
+
+#360
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360kuai.com
 DOMAIN-SUFFIX,360safe.com
@@ -39,19 +40,13 @@ DOMAIN-SUFFIX,so.com
 #xiaoe-tech
 DOMAIN-SUFFIX,xiaoe-tech.com
 
-# taobao
-DOMAIN-SUFFIX,taaobao.com
-
 # weibo
 DOMAIN-SUFFIX,weibo.com
 
-# huaban
+#huaban
 DOMAIN-SUFFIX,huaban.com
 
-#tianmao
-DOMAIN-SUFFIX,tmall.com
-
-# Alibaba
+#Alibaba
 DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,aliapp.org
 DOMAIN-SUFFIX,alibaba.com
