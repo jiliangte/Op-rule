@@ -46,6 +46,9 @@ DOMAIN-SUFFIX,weibo.com
 #huaban
 DOMAIN-SUFFIX,huaban.com
 
+#weixin
+DOMAIN-SUFFIX,weixin.qq.com
+
 #Alibaba
 DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,aliapp.org
