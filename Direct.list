@@ -27,8 +27,12 @@ IP-CIDR,114.114.115.115/32,no-resolve
 #即梦
 DOMAIN-SUFFIX,jianying.com
 
-#xiumi
+#changyong
 DOMAIN-SUFFIX,xiumi.us
+DOMAIN-SUFFIX,xiaoe-tech.com
+DOMAIN-SUFFIX,vcg.com
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,huaban.com
 
 #360
 DOMAIN-SUFFIX,360.com
@@ -39,21 +43,6 @@ DOMAIN-SUFFIX,qhres.com
 DOMAIN-SUFFIX,qhstatic.com
 DOMAIN-SUFFIX,qhupdate.com
 DOMAIN-SUFFIX,so.com
-
-#xiaoe-tech
-DOMAIN-SUFFIX,xiaoe-tech.com
-
-#中国视觉
-DOMAIN-SUFFIX,vcg.com
-
-# weibo
-DOMAIN-SUFFIX,weibo.com
-
-#huaban
-DOMAIN-SUFFIX,huaban.com
-
-#weixin
-DOMAIN-SUFFIX,weixin.qq.com
 
 #Alibaba
 DOMAIN-SUFFIX,1688.com
