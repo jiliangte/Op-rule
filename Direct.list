@@ -31,6 +31,17 @@ DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,huaban.com
 DOMAIN-SUFFIX,xiaoe-tech.com
 DOMAIN-SUFFIX,goofish.com
+DOMAIN-SUFFIX,taobao.com
+DOMAIN-SUFFIX,taobaocdn.com
+DOMAIN-SUFFIX,tbcache.com
+DOMAIN-SUFFIX,tbcdn.com
+DOMAIN-SUFFIX,tmall.com
+DOMAIN-SUFFIX,tmall.hk
+DOMAIN-SUFFIX,ucweb.com
+DOMAIN-SUFFIX,xiami.com
+DOMAIN-SUFFIX,xiami.net
+DOMAIN-SUFFIX,ykimg.com
+DOMAIN-SUFFIX,youku.com
 
 #360
 DOMAIN-SUFFIX,360.com
@@ -69,17 +80,6 @@ DOMAIN-SUFFIX,hichina.com
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,mxhichina.com
 DOMAIN-SUFFIX,soku.com
-DOMAIN-SUFFIX,taobao.com
-DOMAIN-SUFFIX,taobaocdn.com
-DOMAIN-SUFFIX,tbcache.com
-DOMAIN-SUFFIX,tbcdn.com
-DOMAIN-SUFFIX,tmall.com
-DOMAIN-SUFFIX,tmall.hk
-DOMAIN-SUFFIX,ucweb.com
-DOMAIN-SUFFIX,xiami.com
-DOMAIN-SUFFIX,xiami.net
-DOMAIN-SUFFIX,ykimg.com
-DOMAIN-SUFFIX,youku.com
 
 # Baidu
 DOMAIN-SUFFIX,baidu.com
