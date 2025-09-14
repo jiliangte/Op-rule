@@ -45,8 +45,6 @@ DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN-SUFFIX,nio.cn
 DOMAIN-SUFFIX,iloveplanet.cn
-
-#Alibaba
 DOMAIN-SUFFIX,1688.com
 DOMAIN-SUFFIX,aliapp.org
 DOMAIN-SUFFIX,alibaba.com
@@ -68,25 +66,14 @@ DOMAIN-SUFFIX,aliyundrive.net
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,dingtalk.com
-DOMAIN-SUFFIX,ele.me
 DOMAIN-SUFFIX,hichina.com
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,mxhichina.com
 DOMAIN-SUFFIX,soku.com
-
-# Baidu
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidubcr.com
 DOMAIN-SUFFIX,baidupcs.com
 DOMAIN-SUFFIX,baidustatic.com
-DOMAIN-SUFFIX,bcebos.com
-DOMAIN-SUFFIX,bdimg.com
-DOMAIN-SUFFIX,bdstatic.com
-DOMAIN-SUFFIX,bdurl.net
-DOMAIN-SUFFIX,jomodns.com
-DOMAIN-SUFFIX,yunjiasu-cdn.net
-
-# Bilibili
 DOMAIN-SUFFIX,acg.tv
 DOMAIN-SUFFIX,acgvideo.com
 DOMAIN-SUFFIX,b23.tv
@@ -96,41 +83,10 @@ DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilibili.co
-DOMAIN-SUFFIX,biliintl.co
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,biligame.net
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,bilivideo.cn
-DOMAIN-SUFFIX,hdslb.com
-DOMAIN-SUFFIX,im9.com
-DOMAIN-SUFFIX,smtcdns.net
-
-# HuaWei
-DOMAIN-SUFFIX,dbankcdn.com
-DOMAIN-SUFFIX,hc-cdn.com
-DOMAIN-SUFFIX,hicloud.com
-DOMAIN-SUFFIX,hihonor.com
-DOMAIN-SUFFIX,huawei.com
-DOMAIN-SUFFIX,huaweicloud.com
-DOMAIN-SUFFIX,huaweishop.net
-DOMAIN-SUFFIX,hwccpc.com
-DOMAIN-SUFFIX,vmall.com
-DOMAIN-SUFFIX,vmallres.com
-
-# PDD 拼多多
-DOMAIN-SUFFIX,pinduoduo.com
-DOMAIN-SUFFIX,yangkeduo.com
-
-# Kuaishou 快手
-DOMAIN-SUFFIX,kuaishou.com
-DOMAIN-SUFFIX,yximgs.com
-
-# MGTV 芒果TV
-DOMAIN-SUFFIX,hitv.com
-DOMAIN-SUFFIX,hunantv.com
-DOMAIN-SUFFIX,mgtv.com
-
-# MI
 DOMAIN-SUFFIX,duokan.com
 DOMAIN-SUFFIX,mi-img.com
 DOMAIN-SUFFIX,mi.com
@@ -138,24 +94,13 @@ DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,xiaomi.com
 DOMAIN-SUFFIX,xiaomi.net
 DOMAIN-SUFFIX,xiaomicp.com
-
-# Sina
-DOMAIN-SUFFIX,leju.com
-DOMAIN-SUFFIX,miaopai.com
 DOMAIN-SUFFIX,sina.com
 DOMAIN-SUFFIX,sina.com.cn
 DOMAIN-SUFFIX,sina.cn
-DOMAIN-SUFFIX,sinaapp.com
-DOMAIN-SUFFIX,sinaapp.cn
-DOMAIN-SUFFIX,sinaimg.com
-DOMAIN-SUFFIX,sinaimg.cn
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibo.cn
 DOMAIN-SUFFIX,weibocdn.com
 DOMAIN-SUFFIX,weibocdn.cn
-DOMAIN-SUFFIX,xiaoka.tv
-
-# Tencent
 DOMAIN-SUFFIX,foxmail.com
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,idqqimg.com
@@ -173,12 +118,6 @@ DOMAIN-SUFFIX,tencent.com
 DOMAIN-SUFFIX,tencentmind.com
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,weiyun.com
-
-# Ximalaya 喜马拉雅
-DOMAIN-SUFFIX,ximalaya.com
-DOMAIN-SUFFIX,xmcdn.com
-
-# Xunlei 迅雷
 DOMAIN-SUFFIX,00cdn.com
 DOMAIN-SUFFIX,88cdn.com
 DOMAIN-SUFFIX,kanimg.com
