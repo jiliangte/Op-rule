@@ -26,6 +26,7 @@ IP-CIDR,114.114.115.115/32,no-resolve
 
 #changyong
 DOMAIN-SUFFIX,xiumi.us
+DOMAIN-SUFFIX,isnconf.com
 DOMAIN-SUFFIX,vcg.com
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,huaban.com
