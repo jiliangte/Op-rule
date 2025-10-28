@@ -25,6 +25,7 @@ IP-CIDR,114.114.115.115/32,no-resolve
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,xiumi.us
 DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,weixin.qq.com
 
 # Bilibili 哔哩哔哩
 USER-AGENT,Bilibili*
