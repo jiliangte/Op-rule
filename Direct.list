@@ -23,6 +23,7 @@ IP-CIDR,114.114.115.115/32,no-resolve
 
 # 常用
 DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,xiumi.us
 
 # Bilibili 哔哩哔哩
 USER-AGENT,Bilibili*
