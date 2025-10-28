@@ -24,6 +24,7 @@ IP-CIDR,114.114.115.115/32,no-resolve
 # 常用
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,xiumi.us
+DOMAIN-SUFFIX,bilibili.com
 
 # Bilibili 哔哩哔哩
 USER-AGENT,Bilibili*
@@ -38,7 +39,6 @@ DOMAIN-SUFFIX,bigfun.cn
 DOMAIN-SUFFIX,bigfunapp.cn
 DOMAIN-SUFFIX,biliapi.com
 DOMAIN-SUFFIX,biliapi.net
-DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,biligame.com
 DOMAIN-SUFFIX,biligame.net
