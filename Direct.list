@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,xiumi.us
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,weixin.qq.com
 DOMAIN-SUFFIX,likefont.com
+DOMAIN-SUFFIX,vcg.com
 
 # Bilibili 哔哩哔哩
 USER-AGENT,Bilibili*
