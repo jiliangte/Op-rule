@@ -5,6 +5,7 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,qq.com
+DOMAIN-SUFFIX,gbstech.cn
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
