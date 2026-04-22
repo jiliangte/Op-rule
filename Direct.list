@@ -14,7 +14,6 @@ DOMAIN-SUFFIX,likefont.com
 DOMAIN-SUFFIX,design006.com
 DOMAIN-SUFFIX,likefont.com
 DOMAIN-SUFFIX,nio.cn
-DOMAIN-SUFFIX,vcg.com
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
